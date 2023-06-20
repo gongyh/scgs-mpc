@@ -7,3 +7,4 @@ gatk==3.8--hdfd78af_11,samtools=1.17,picard=3.0.0	quay.io/bioconda/base-glibc-bu
 bedtools=2.31.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
 prokka==1.14.6--pl5262hdfd78af_3,gff2bed=1.0.3	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 blobtools==1.1.1--py_1,samtools=1.17	quay.io/bioconda/base-glibc-busybox-bash:latest	0
+bowtie2=2.4.4,samtools=1.17	quay.io/bioconda/base-glibc-busybox-bash:latest	0
