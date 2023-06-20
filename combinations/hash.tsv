@@ -1,2 +1,2 @@
 #targets	base_image	image_build
-click=8.0.4,biopython=1.8	1quay.io/bioconda/base-glibc-busybox-bash:latest	0
+click=8.0.4,biopython=1.81	1quay.io/bioconda/base-glibc-busybox-bash:latest	0
