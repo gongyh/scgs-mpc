@@ -8,3 +8,4 @@ bedtools=2.31.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
 prokka=1.14.6,bedops=2.4.41	quay.io/bioconda/base-glibc-debian-bash:latest	0
 blobtools==1.1.1--py_1,samtools=1.17	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 bowtie2=2.4.4,samtools=1.17	quay.io/bioconda/base-glibc-busybox-bash:latest	0
+kraken=1.1.1	quay.io/bioconda/base-glibc-busybox-bash:latest	0
