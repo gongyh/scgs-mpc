@@ -11,3 +11,4 @@ bowtie2=2.4.4,samtools=1.17	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 kraken=1.1.1,krona=2.7.1	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 augustus=3.5.0--pl5321h700735d_3,tantan=40	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 blobtools=1.0.1--py27_3	quay.io/bioconda/base-glibc-busybox-bash:latest	0
+acdc=1.02	quay.io/bioconda/base-glibc-busybox-bash:latest	0
