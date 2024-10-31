@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+python=3.12.3,biopython=1.84,bedtools=2.30.0,prodigal=2.6.3,cd-hit=4.8.1,blast=2.13.0,hmmer=3.3.2,diamond=2.1.10,mcl=14.137,mafft=7.526,parallel=20220222,numpy=1.26.4,scipy=1.14.1,numba=0.59.1,networkx=2.6.3,pandas=2.2.3,perl-bioperl=1.7.8	quay.io/bioconda/base-glibc-debian-bash:latest	0
