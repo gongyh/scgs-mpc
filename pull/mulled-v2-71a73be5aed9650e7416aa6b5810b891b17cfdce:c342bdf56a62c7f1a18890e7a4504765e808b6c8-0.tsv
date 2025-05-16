@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+quickmerge=0.3,seqkit=2.10.0	quay.io/bioconda/base-glibc-busybox-bash:latest	0
