@@ -23,5 +23,5 @@ fastx_toolkit=0.0.14,bbmap=39.01	quay.io/bioconda/base-glibc-debian-bash:latest	
 python=3.10.14,odgi=0.8.4,seqkit=2.8.0,gfapy=1.2.3,clustalw=2.1,gffread=0.12.7,aster=1.16,biopython=1.83,toytree=3.0.1,pandas=2.2.1,numpy=1.26.4,prettytable=3.10.0,mummer4=4.0.0rc1	quay.io/bioconda/base-glibc-busybox-bash:latest	0
 pypy=7.3.15,python=3.9.18,biopython=1.84,bedtools=2.30.0,prodigal=2.6.3,cd-hit=4.8.1,blast=2.13.0,hmmer=3.3.2,diamond=2.0.14,mcl=14.137,mafft=7.526,parallel=20220222,numpy=1.26.4,scipy=1.12.0,networkx=2.6.3,pandas=2.2.2,perl-bioperl=1.7.8	quay.io/bioconda/base-glibc-debian-bash:latest	0
 quickmerge=0.3,seqkit=2.10.0	quay.io/bioconda/base-glibc-busybox-bash:latest	0
-metacompass=1.12=h9948957_1	quay.io/bioconda/base-glibc-debian-bash:latest	1
+metacompass=1.12=h9948957_2	quay.io/bioconda/base-glibc-debian-bash:latest	2
 bowtie2=2.4.4,samtools=1.16.1,pigz=2.6	quay.io/bioconda/base-glibc-debian-bash:latest	0
