@@ -25,4 +25,4 @@ pypy=7.3.15,python=3.9.18,biopython=1.84,bedtools=2.30.0,prodigal=2.6.3,cd-hit=4
 quickmerge=0.3,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	0
 metacompass=1.12=h9948957_4,seqkit=2.10.0,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	0
 bowtie2=2.4.4,samtools=1.16.1,pigz=2.6	quay.io/bioconda/base-glibc-debian-bash:latest	0
-ragtag=2.1.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
+ragtag=2.1.0,seqkit=2.10.0	quay.io/bioconda/base-glibc-debian-bash:latest	0

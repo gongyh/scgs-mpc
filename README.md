@@ -29,4 +29,4 @@ Multi-package containers for nf-core-scgs pipeline
 | PASA | pypy=7.3.15,python=3.9.18,biopython=1.84,bedtools=2.30.0,prodigal=2.6.3,cd-hit=4.8.1,blast=2.13.0,hmmer=3.3.2,diamond=2.0.14,mcl=14.137,mafft=7.526,parallel=20220222,numpy=1.26.4,scipy=1.12.0,networkx=2.6.3,pandas=2.2.2,perl-bioperl=1.7.8 | mulled-v2-073b771ca2dadccea705dbf1ddd01a7cf8acbd16:2dbb37a53c6b2b0022680b85f721d8d95f888d99-0 |
 | QUICKMERGE | quickmerge=0.3,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-d417af7602b66a7a02bee82c7dd6399da6f61ce0:d831d87d4fdb108118b1d07ed3b32621cd2472f2-0 |
 | METACOMPASS | metacompass=1.12=h9948957_4,seqkit=2.10.0,seqtk=1.4 | mulled-v2-0e7fe6bd3265990ffcdf96496fe08dc5aa55fd24:62c3137bd1d05677122f8069cb3981ac4e60651e-0 |
-| RAGTAG | ragtag=2.1.0 | ragtag:2.1.0 |
+| RAGTAG | ragtag=2.1.0,seqkit=2.10.0 | mulled-v2-561a2673ebd796b3ddd2822d3f38440d215223c5:6b65b2e5d7cc53084c2dc5fec2260d8adbee49f1-0 |
