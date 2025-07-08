@@ -31,4 +31,4 @@ Multi-package containers for nf-core-scgs pipeline
 | METACOMPASS | metacompass=1.12=h9948957_4,seqkit=2.10.0,seqtk=1.4 | mulled-v2-0e7fe6bd3265990ffcdf96496fe08dc5aa55fd24:62c3137bd1d05677122f8069cb3981ac4e60651e-0 |
 | RAGTAG | ragtag=2.1.0,seqkit=2.10.0 | mulled-v2-561a2673ebd796b3ddd2822d3f38440d215223c5:6b65b2e5d7cc53084c2dc5fec2260d8adbee49f1-0 |
 | UMAP_FULL | scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-sceasy=0.0.7 | mulled-v2-fe9371f6be95d197dedf7c0a65e9e322526829e0:8d6c60157f466e2d016b24eb850b151a57f390ab-0 |
-| UMAP | scanpy=1.11.2,pyyaml=6.0.2 | mulled-v2-9109a57576476a9373a70c6f48e5d8d64c8d6c77:1da6c154f4395390d27ed0224ea5055605acd644-0 |
+| UMAP | scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9 | mulled-v2-2824bde633f4c20ecd5caf1b7c5cb7f2a1bbf368:4a0dede0ef5fd03e4b1225f98ee2feca15574a4f-0 |
