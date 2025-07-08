@@ -21,7 +21,7 @@ Multi-package containers for nf-core-scgs pipeline
 | MONOVAR | numpy=1.25.0,scipy=1.10.1,pysam=0.21.0,samtools=1.17 | mulled-v2-3fac00b995a603e53b168c14fd623583081a1b9d:dc88b89d94c822ade5a35acdb5836139bb931890-0 |
 | PRESEQ | preseq=3.2.0,r-base=4.3.0 | mulled-v2-f75ca76f6f0d8dac03a420a64d4d702441604c14:03f4a075e359bb32a613b098d13dba7b4c8c967f-0 |
 | KOFAMSCAN | kofamscan=1.3.0,python=3.6.10 | mulled-v2-ef3cc10895f39bdde312c5e796de361bc231bb29:f6fe8bf9968d952a4cb8cdb90f165e49c40688b8-0 |
-| KRAKEN | kraken2=2.1.2,krona=2.7.1,krakentools=1.2 | mulled-v2-3bbb1b9ff2130265cf8d9498a097b04978fb988f:6688dcb6662e35001e709b425821fff321f15540-0 |
+| KRAKEN | kraken2=2.1.2,krona=2.7.1,krakentools=1.2 | mulled-v2-3bbb1b9ff2130265cf8d9498a097b04978fb988f:6688dcb6662e35001e709b425821fff321f15540-1 |
 | CANU | canu=2.2,flye=2.9.2,perl-bioperl=1.7.8,perl-io-all=0.87 | mulled-v2-ef18b85941472064953d94d6112dc05e36194472:90a061fb09200847c4637e3480aa75a467fb2786-0 |
 | DOUBLETD | pypy=7.3.3,python=3.6.12,numpy=1.19.5,scipy=1.5.3,pysam=0.15.4,pandas=1.1.5,pyvcf=0.6.8 | mulled-v2-b7b08ecbb8cbfa2e328c1c68384966d9ba24b2c8:35b29e00884f8c94506f5174a2a2eb3ea2f07a20-0 |
 | BBNORM | fastx_toolkit=0.0.14,bbmap=39.01 | mulled-v2-0f45a2e9949b9309cc37635f57bff7a66baf8095:86172d512030702a6bdb7b2cd7e301c3e1a14e56-1 |
