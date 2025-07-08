@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-sceasy=0.0.7	quay.io/bioconda/base-glibc-debian-bash:latest	0
