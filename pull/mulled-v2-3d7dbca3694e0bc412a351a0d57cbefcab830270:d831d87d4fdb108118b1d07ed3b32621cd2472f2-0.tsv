@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+quickmerge-vt=0.3,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	0
