@@ -28,4 +28,4 @@ bowtie2=2.4.4,samtools=1.16.1,pigz=2.6	quay.io/bioconda/base-glibc-debian-bash:l
 ragtag=2.1.0,seqkit=2.10.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
 scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-sceasy=0.0.7	quay.io/bioconda/base-glibc-debian-bash:latest	0
 scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9,leidenalg=0.10.2,plotly=6.2.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
-quickmerge-vt=0.4,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	0
+quickmerge-vt=0.4,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	1
