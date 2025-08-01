@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+metacompass=1.12=h9948957_6,seqkit=2.10.0,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	6

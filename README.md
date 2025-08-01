@@ -28,7 +28,7 @@ Multi-package containers for nf-core-scgs pipeline
 | MGPGTOOLS | python=3.10.14,odgi=0.8.4,seqkit=2.8.0,gfapy=1.2.3,clustalw=2.1,gffread=0.12.7,aster=1.16,biopython=1.83,toytree=3.0.1,pandas=2.2.1,numpy=1.26.4,prettytable=3.10.0,mummer4=4.0.0rc1 | mulled-v2-089d7a065ba2c540b6ac7fe9ae1819e5e40ec7b4:23979f6d41a67b9e859697c2a8a32a23894041ee-0 |
 | PASA | pypy=7.3.15,python=3.9.18,biopython=1.84,bedtools=2.30.0,prodigal=2.6.3,cd-hit=4.8.1,blast=2.13.0,hmmer=3.3.2,diamond=2.0.14,mcl=14.137,mafft=7.526,parallel=20220222,numpy=1.26.4,scipy=1.12.0,networkx=2.6.3,pandas=2.2.2,perl-bioperl=1.7.8 | mulled-v2-073b771ca2dadccea705dbf1ddd01a7cf8acbd16:2dbb37a53c6b2b0022680b85f721d8d95f888d99-0 |
 | QUICKMERGE | quickmerge=0.3,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-d417af7602b66a7a02bee82c7dd6399da6f61ce0:d831d87d4fdb108118b1d07ed3b32621cd2472f2-0 |
-| METACOMPASS | metacompass=1.12=h9948957_5,seqkit=2.10.0,seqtk=1.4 | mulled-v2-0e7fe6bd3265990ffcdf96496fe08dc5aa55fd24:62c3137bd1d05677122f8069cb3981ac4e60651e-1 |
+| METACOMPASS | metacompass=1.12=h9948957_6,seqkit=2.10.0,seqtk=1.4 | mulled-v2-0e7fe6bd3265990ffcdf96496fe08dc5aa55fd24:62c3137bd1d05677122f8069cb3981ac4e60651e-6 |
 | RAGTAG | ragtag=2.1.0,seqkit=2.10.0 | mulled-v2-561a2673ebd796b3ddd2822d3f38440d215223c5:6b65b2e5d7cc53084c2dc5fec2260d8adbee49f1-0 |
 | UMAP_FULL | scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-sceasy=0.0.7 | mulled-v2-fe9371f6be95d197dedf7c0a65e9e322526829e0:8d6c60157f466e2d016b24eb850b151a57f390ab-0 |
 | UMAP | scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9,leidenalg=0.10.2,plotly=6.2.0 | mulled-v2-bebad6fb9c0a642cb203291e2b9969552cec05d6:955d7191e655a067018f09dfc80d57c23afb23c9-0 |
