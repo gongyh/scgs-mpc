@@ -33,3 +33,4 @@ Multi-package containers for nf-core-scgs pipeline
 | UMAP_FULL | scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-sceasy=0.0.7 | mulled-v2-fe9371f6be95d197dedf7c0a65e9e322526829e0:8d6c60157f466e2d016b24eb850b151a57f390ab-0 |
 | UMAP | scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9,leidenalg=0.10.2,plotly=6.2.0 | mulled-v2-bebad6fb9c0a642cb203291e2b9969552cec05d6:955d7191e655a067018f09dfc80d57c23afb23c9-0 |
 | QUICKMERGE-VT | quickmerge-vt=0.4,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-3d7dbca3694e0bc412a351a0d57cbefcab830270:13f4c4f6b30adc2e47d2dfca9753708b5d6e5cc7-1 |
+| QUICKMERGE-RAGTAG | quickmerge-vt=0.4,ragtag=2.1.0,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-3c99dbe67a0d01cc10a223e8f82778c618460187:2d2622edca5a7d6580a2ba583efd2d06d593b784-0 |
