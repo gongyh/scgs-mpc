@@ -1,0 +1,2 @@
+#targets	base_image	image_build
+python=3.11.5,numpy=1.26.4,pandas=2.3.2,scikit-learn=1.7.1,pyrodigal=3.6.3.post1,phispy=4.2.21,pexpect=4.9.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
