@@ -30,4 +30,4 @@ scanpy-scripts=1.9.301,python=3.9.23,loompy=3.0.6,pyyaml=6.0.2,r-ggpubr=0.6.1,r-
 scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9,leidenalg=0.10.2,plotly=6.2.0	quay.io/bioconda/base-glibc-debian-bash:latest	0
 quickmerge-vt=0.4,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	1
 quickmerge-vt=0.4,ragtag=2.1.0,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4	quay.io/bioconda/base-glibc-debian-bash:latest	0
-python=3.11.5,numpy=1.26.4,pandas=2.3.2,scikit-learn=1.7.1,prodigal=2.6.3	quay.io/bioconda/base-glibc-debian-bash:latest	0
+python=3.11.5,numpy=1.26.4,pandas=2.3.2,scikit-learn=1.7.1,pyrodigal=3.6.3.post1,phispy=4.2.21	quay.io/bioconda/base-glibc-debian-bash:latest	0

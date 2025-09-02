@@ -34,4 +34,4 @@ Multi-package containers for nf-core-scgs pipeline
 | UMAP | scanpy=1.11.2,pyyaml=6.0.2,python-igraph=0.11.9,leidenalg=0.10.2,plotly=6.2.0 | mulled-v2-bebad6fb9c0a642cb203291e2b9969552cec05d6:955d7191e655a067018f09dfc80d57c23afb23c9-0 |
 | QUICKMERGE-VT | quickmerge-vt=0.4,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-3d7dbca3694e0bc412a351a0d57cbefcab830270:13f4c4f6b30adc2e47d2dfca9753708b5d6e5cc7-1 |
 | QUICKMERGE-RAGTAG | quickmerge-vt=0.4,ragtag=2.1.0,seqkit=2.10.0,biopython=1.85,perl-bioperl=1.7.8,seqtk=1.4 | mulled-v2-3c99dbe67a0d01cc10a223e8f82778c618460187:2d2622edca5a7d6580a2ba583efd2d06d593b784-0 |
-| UNIOP | python=3.11.5,numpy=1.26.4,pandas=2.3.2,scikit-learn=1.7.1,prodigal=2.6.3 | mulled-v2-55a8e60d9443700fc30f7dcbd9e818915628799a:18ac8636f36b21579062b5b7aebc003241570d3f-0 |
+| PRODIGAL | python=3.11.5,numpy=1.26.4,pandas=2.3.2,scikit-learn=1.7.1,pyrodigal=3.6.3.post1,phispy=4.2.21 | mulled-v2-0c8285cce85b363cd4ec044aa450f7ad32cc72f1:311003c4151b86e595e67b4036da6c1d6465bada-0 |
